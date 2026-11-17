@@ -1,0 +1,19 @@
+{
+  "name": "atividade-06-loja-fakestore",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --watchAll=false"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "primereact": "^10.9.7",
+    "primeicons": "^7.0.0",
+    "primeflex": "^3.3.1",
+    "axios": "^1.7.9",
+    "react-scripts": "5.0.1"
+  }
+}
